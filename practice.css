@@ -334,8 +334,6 @@ main {
   color: gray;
 }
 
-
-
 @media screen and (max-width: 1024px) {
   .right-content {
     font-size: 12px;
@@ -618,3 +616,4 @@ img{
     color: rgb(51, 47, 47);
     font-weight: 300;
   }
+  
